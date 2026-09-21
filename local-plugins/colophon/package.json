@@ -1,0 +1,36 @@
+{
+  "name": "colophon",
+  "version": "1.0.0",
+  "description": "A hand-set colophon line for the footer of Dimroe's Codex",
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js",
+    "./package.json": "./package.json"
+  },
+  "quartz": {
+    "name": "colophon",
+    "displayName": "Colophon",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 60,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "line": "Set by hand",
+      "year": "2026–"
+    },
+    "components": {
+      "Colophon": {
+        "displayName": "Colophon",
+        "defaultPosition": "footer",
+        "defaultPriority": 60
+      }
+    },
+    "optionSchema": {
+      "line": { "type": "string" },
+      "year": { "type": "string" }
+    }
+  }
+}

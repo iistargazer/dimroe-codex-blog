@@ -1,0 +1,17 @@
+[
+  {
+    "title": "morning sky",
+    "src": "/static/music/morning-sky.wav",
+    "note": "generated demo — replace with real files"
+  },
+  {
+    "title": "garden urns",
+    "src": "/static/music/garden-urns.wav",
+    "note": "generated demo — replace with real files"
+  },
+  {
+    "title": "prometheus night",
+    "src": "/static/music/prometheus-night.wav",
+    "note": "generated demo — replace with real files"
+  }
+]
