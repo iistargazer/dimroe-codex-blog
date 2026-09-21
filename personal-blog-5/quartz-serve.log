@@ -1,0 +1,176 @@
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 110ms
+Found 20 input files from `content` in 48ms
+Parsing input files using 1 threads
+
+Warning: couldn't find git repository for content
+Parsed 20 Markdown files in 926ms
+Filtered out 0 files in 190μs
+Emitting files
+Emitted 135 files to `public` in 9s
+Done processing 20 files in 11s
+Started a Quartz server listening at http://localhost:8080
+hint: exit with ctrl+c
+[200] /
+[200] /
+[200] /
+[200] /index.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-7f220492.css
+[200] /component-e427079e.css
+[200] /component-caf7c009.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-ef974292.css
+[200] /component-ed6ced77.css
+[200] /component-81ad1dcd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-34631fce.css
+[200] /static/resource-style-04a1f295.css
+[200] /prescript.js
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/playlist.json
+[200] /static/font-presets.json
+[206] /static/music/prometheus-night.wav
+[200] /
+[200] /index.css
+[200] /component-735924e0.css
+[200] /prescript.js
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-7f220492.css
+[200] /component-e427079e.css
+[200] /component-caf7c009.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-ef974292.css
+[200] /component-ed6ced77.css
+[200] /component-81ad1dcd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-34631fce.css
+[200] /static/resource-style-04a1f295.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-7f220492.css
+[200] /component-e427079e.css
+[200] /component-caf7c009.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-ef974292.css
+[200] /component-ed6ced77.css
+[200] /component-81ad1dcd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-34631fce.css
+[200] /static/resource-style-04a1f295.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/noise.png
+[200] /static/playlist.json
+[200] /static/font-presets.json
+[206] /static/music/prometheus-night.wav
+[200] /tags/information-theory
+[200] /thoughts/
+[200] /posts/
+[200] /subjects/
+[200] /paintings/
+[200] /attachments/parrish-rocks.png
+[200] /attachments/lorrain-seaport.jpg
+[200] /attachments/lorrain-pastoral.jpg
+[200] /attachments/parrish-garden.png
+[200] /attachments/parrish-prometheus.png
+[200] /attachments/friedrich-wanderer.jpg
+[200] /attachments/friedrich-monk.jpg
+[200] /attachments/turner-temeraire.jpg
+[200] /library/
+[302] /paintings -> /paintings/
+[302] /subjects -> /subjects/
+[200] /
+[206] /static/music/prometheus-night.wav
+[200] /static/icon.png
+[302] /tags -> /tags/
+[200] /tags/
+[302] /subjects -> /subjects/
+[200] /subjects/
+[302] /thoughts -> /thoughts/
+[200] /thoughts/
+[200] /paintings/
+[200] /index.css
+[200] /prescript.js
+[200] /attachments/parrish-rocks.png
+[200] /attachments/parrish-garden.png
+[200] /attachments/lorrain-seaport.jpg
+[200] /attachments/parrish-prometheus.png
+[200] /attachments/lorrain-pastoral.jpg
+[200] /attachments/friedrich-wanderer.jpg
+[200] /attachments/turner-temeraire.jpg
+[200] /attachments/friedrich-monk.jpg
+[200] /
+[302] /subjects -> /subjects/

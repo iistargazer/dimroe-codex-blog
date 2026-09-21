@@ -1,0 +1,58 @@
+[
+  {
+    "id": "parrish",
+    "label": "Parrish bookish",
+    "note": "the default — EB Garamond + Source Serif",
+    "header": "EB Garamond",
+    "body": "Source Serif 4",
+    "code": "IBM Plex Mono"
+  },
+  {
+    "id": "ewan",
+    "label": "Ewan",
+    "note": "Lora — the ewan.my pairing",
+    "header": "Lora",
+    "body": "Lora",
+    "code": "IBM Plex Mono"
+  },
+  {
+    "id": "aarnphm",
+    "label": "Aarn",
+    "note": "grotesque body, like notes.aarnphm.xyz",
+    "header": "Bricolage Grotesque",
+    "body": "Instrument Sans",
+    "code": "Berkeley Mono"
+  },
+  {
+    "id": "canon",
+    "label": "Personal canon",
+    "note": "Playfair Display accents, aarnphm-style",
+    "header": "Playfair Display",
+    "body": "Source Serif 4",
+    "code": "Courier Prime"
+  },
+  {
+    "id": "academy",
+    "label": "Academy",
+    "note": "Crimson + Lora — old paper",
+    "header": "Crimson Pro",
+    "body": "Lora",
+    "code": "JetBrains Mono"
+  },
+  {
+    "id": "sleek",
+    "label": "Sleek",
+    "note": "Spectral + Source Sans — contemporary",
+    "header": "Spectral",
+    "body": "Source Sans 3",
+    "code": "Space Grotesk"
+  },
+  {
+    "id": "biro",
+    "label": "Biro notes",
+    "note": "Caveat headers — handwritten, like ewan's custom font",
+    "header": "Caveat",
+    "body": "Source Serif 4",
+    "code": "IBM Plex Mono"
+  }
+]

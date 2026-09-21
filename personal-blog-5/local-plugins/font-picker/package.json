@@ -1,0 +1,30 @@
+{
+  "name": "font-picker",
+  "version": "1.0.0",
+  "description": "Selectable font presets for Dimroe's Codex",
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js",
+    "./package.json": "./package.json"
+  },
+  "quartz": {
+    "name": "font-picker",
+    "displayName": "Font Picker",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 71,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "FontPicker": {
+        "displayName": "Font Picker",
+        "defaultPosition": "footer",
+        "defaultPriority": 71
+      }
+    },
+    "optionSchema": {}
+  }
+}
