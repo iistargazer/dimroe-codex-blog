@@ -8,8 +8,8 @@ configuration:
     provider: null
   locale: en-US
   # Set this to your deployed domain (no https://, no trailing slashes)
-  # This site deploys to project pages: dimroe.github.io/dimroe-codex-blog-final
-  baseUrl: dimroe.github.io/dimroe-codex-blog-final
+  # This site deploys to project pages: iistargazer.github.io/dimroe-codex-blog
+  baseUrl: iistargazer.github.io/dimroe-codex-blog
   ignorePatterns:
     - private
     - templates
@@ -233,7 +233,7 @@ plugins:
         # Absolute URL on purpose: footer renders on every page, and relative
         # or root-relative paths (e.g. /index.xml) 404 when the site lives at
         # username.github.io/<repo>. Update this when you change baseUrl.
-        RSS: https://dimroe.github.io/dimroe-codex-blog-final/index.xml
+        RSS: https://iistargazer.github.io/dimroe-codex-blog/index.xml
     layout:
       position: footer
       priority: 50
