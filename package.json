@@ -17,7 +17,7 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "build": "npx quartz build",
+    "build": "node quartz/bootstrap-cli.mjs build",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
     "prebuild": "node scripts/link-local-plugins.cjs && npm run install-plugins",
