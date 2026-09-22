@@ -1,0 +1,32 @@
+{
+  "name": "clean-rss",
+  "version": "1.0.0",
+  "description": "RSS emitter that only lists real content pages (no tag/folder/index noise)",
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js",
+    "./package.json": "./package.json"
+  },
+  "quartz": {
+    "name": "clean-rss",
+    "displayName": "Clean RSS",
+    "category": "emitter",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 75,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "slug": "index",
+      "limit": 20
+    },
+    "optionSchema": {
+      "slug": {
+        "type": "string"
+      },
+      "limit": {
+        "type": "number"
+      }
+    }
+  }
+}

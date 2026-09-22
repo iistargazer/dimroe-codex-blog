@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+
+# build output
+public
+prof
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# quartz runtime artifacts (regenerated, never commit)
+.quartz/
+.quartz-cache
+quartz/cli/tui/dist/
+quartz-serve.log
+quartz.lock.json
+
+# content / dev tooling
+.obsidian
+private/
+.freebuff/
+
+# environment
+.DS_Store
+.replit
+replit.nix
+.turbo/

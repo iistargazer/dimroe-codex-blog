@@ -1,0 +1,18 @@
+public
+node_modules
+.quartz-cache
+.quartz
+
+# prose and authoring sources — prettier must not rewrap these
+content
+docs
+templates
+
+# built output of local plugins
+local-plugins/*/dist
+local-plugins/*/README.md
+
+# long-form template prose
+DOMAIN.md
+GUIDE.md
+TUTORIAL.md
